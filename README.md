@@ -12,3 +12,7 @@ This website contains my Bio/Portfolio page, which includes:
 * my work and education history
 * a list and link to my github project repositories, with a filter by skill set
 
+### Technologies
+* CSS
+* HTML
+* JavaScript
